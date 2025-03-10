@@ -1,2 +1,0 @@
-# JavaStringShifter
-JavaStringShifter
